@@ -1,0 +1,22 @@
+[
+  {
+    "name": "首页",
+    "linkto": "/"
+    
+  },
+  {
+    "name": "开发",
+    "linkto": "/dev",
+    "subMenu":[
+      {
+        "name":"111",
+        "linkto":"111"
+      }
+    ]
+
+  },
+  {
+    "name": "社区",
+    "linkto": "/community"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "mainTitle": "网站导航",
+    "links": [
+      {
+        "linkTitle": "项目管理系统（禅道）",
+        "linkTo": "http://dev.wenyinos.com/my"
+      },
+      {
+        "linkTitle": "GitHub 仓库",
+        "linkTo": "https://github.com/WenYin-Community"
+      },
+      {
+        "linkTitle": "Crowdin 翻译项目",
+        "linkTo": "https://zh.crowdin.com/profile/wenyinos"
+      },
+      {
+        "linkTitle": "项目管理系统（禅道）",
+        "linkTo": "http://dev.wenyinos.com/my"
+      },
+      {
+        "linkTitle": "参与开发测试",
+        "linkTo": "https://forum.wenyinos.com/thread-37.htm"
+      },
+      {
+        "linkTitle": "玟茵知识库",
+        "linkTo": "http://wiki.wenyinos.com/"
+      }
+    ]
+  },
+  {
+    "mainTitle": "联系方式",
+    "links": [
+      {
+        "linkTitle": "QQ：376834707",
+        "linkTo": "#"
+      },
+      {
+        "linkTitle": "加入 QQ 群",
+        "linkTo": "https://shang.qq.com/wpa/qunwpa?idkey=1a4a3865e196be793e6ed6ed5ea9d7d8dc6c3b7bc2141f514292f5ca96d12adc"
+      },
+      {
+        "linkTitle": "ruojiner@hotmail.com",
+        "linkTo": "mailto:ruojiner@hotmail.com"
+      },
+      {
+        "linkTitle": "ruojiner@163.com",
+        "linkTo": "mailto:ruojiner@163.com"
+      }
+    ]
+  },
+  {
+    "mainTitle": "友情链接",
+    "links": [
+      {
+        "linkTitle": "臻网建站平台",
+        "linkTo": "https://www.zsite.com/"
+      },
+      {
+        "linkTitle": "夕阳下的草垛",
+        "linkTo": "http://lotrc.com/"
+      },
+      {
+        "linkTitle": "魔帆博客",
+        "linkTo": "https://morfans.cn/"
+      },
+      {
+        "linkTitle": "濑·栖·屋  Microsoft NK",
+        "linkTo": "https://nthxsz.top/"
+      },
+      {
+        "linkTitle": "Na Rukeu - Blog",
+        "linkTo": "https://narukeu.cc/"
+      },
+      {
+        "linkTitle": "光卡科技（仮）",
+        "linkTo": "https://hikaricalyx.com/"
+      },
+      {
+        "linkTitle": "Fuchsia 中文社区",
+        "linkTo": "https://fuchsia-china.com/"
+      }
+    ]
+  }
+]

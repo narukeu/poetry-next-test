@@ -1,0 +1,22 @@
+[
+  {
+    "title": "开源操作系统",
+    "view": "基于 GNU/Linux 开发",
+    "img": "/images/pc.svg"
+  },
+  {
+    "title": "开源项目本地化",
+    "view": "翻译著名开源项目界面及文档",
+    "img": "/images/locale.svg"
+  },
+  {
+    "title": "开源软件开发",
+    "view": "开发社区自研软件",
+    "img": "/images/terminal.svg"
+  },
+  {
+    "title": "知识库文章撰写",
+    "view": "编写开源软件操作说明等",
+    "img": "/images/wiki.svg"
+  }
+]
